@@ -183,8 +183,7 @@ FROM (
     FROM dogs
     ORDER BY age DESC
     LIMIT 4
-)
-ORDER BY breed ASC;
+);
 """, conn2)
 df_4_oldest
 
