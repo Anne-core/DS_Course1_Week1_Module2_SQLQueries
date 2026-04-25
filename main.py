@@ -1,4 +1,4 @@
-histplot2[0]# %% [markdown]
+# %% [markdown]
 # # Introduction
 # 
 # In this lab assessment you will explore writing more advanced SQL queries aimed at analyzing data on a more granular level. You will be working with 3 different databases throughout the assessment.
